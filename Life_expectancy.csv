@@ -1,0 +1,567 @@
+Entity,Year,Lifeexpectancy,Race,Sex,Avg_Life_Expec,Age_Adj_Death_Rate
+Australia,1802,34.049999,All Races,Both Sexes,78.9,724.6
+Australia,1803,34.049999,All Races,Both Sexes,78.8,731.9
+Australia,1804,34.049999,All Races,Both Sexes,78.8,732.8
+Australia,1805,34.049999,All Races,Both Sexes,78.7,741.3
+Australia,1806,34.049999,All Races,Both Sexes,78.7,747
+Australia,1807,34.049999,All Races,Both Sexes,78.5,749.6
+Australia,1808,34.049999,All Races,Both Sexes,78.2,774.9
+Australia,1809,34.049999,All Races,Both Sexes,78.1,775.3
+Australia,1810,34.049999,All Races,Both Sexes,77.8,791.8
+Australia,1811,34.049999,All Races,Both Sexes,77.6,815
+Australia,1812,34.049999,All Races,Both Sexes,77.5,813.7
+Australia,1877,37.754509,All Races,Both Sexes,77.6,843.5
+Australia,1878,38.283726,All Races,Both Sexes,77,855.9
+Australia,1879,38.812943,All Races,Both Sexes,77,858.8
+Australia,1880,39.342155,All Races,Both Sexes,76.8,869
+Australia,1881,39.871372,All Races,Both Sexes,76.7,875.6
+Australia,1882,40.400589,All Races,Both Sexes,76.7,870.1
+Australia,1883,40.929806,All Races,Both Sexes,76.5,877.7
+Australia,1884,41.459019,All Races,Both Sexes,76.1,893.7
+Brazil,1972,59.644001,All Races,Both Sexes,75.8,909.5
+Brazil,1973,60.042,All Races,Both Sexes,75.7,913.2
+Brazil,1974,60.443001,All Races,Both Sexes,75.5,925.8
+Brazil,1975,60.844002,All Races,Both Sexes,75.8,905.3
+Brazil,1976,61.236,All Races,Both Sexes,75.5,921.9
+Brazil,1977,61.615002,All Races,Both Sexes,75.4,938
+Brazil,1978,61.978001,All Races,Both Sexes,75.1,949.9
+Brazil,1979,62.327999,All Races,Both Sexes,74.9,975.1
+Brazil,1980,62.668999,All Races,Both Sexes,74.9,969.6
+Brazil,1981,63.007999,All Races,Both Sexes,74.7,978.4
+Brazil,1982,63.353001,All Races,Both Sexes,74.7,987.8
+Brazil,1983,63.709999,All Races,Both Sexes,74.7,982.1
+Brazil,1984,64.081001,All Races,Both Sexes,74.6,990
+Brazil,1985,64.466003,All Races,Both Sexes,74.5,984.9
+Brazil,1986,64.862,All Races,Both Sexes,74.1,1007
+Brazil,1987,65.264,All Races,Both Sexes,73.7,1038.7
+Brazil,1988,65.667,All Races,Both Sexes,73.9,1010.6
+Brazil,1989,66.068001,All Races,Both Sexes,73.5,1043.7
+Brazil,1990,68.410004,All Races,Both Sexes,73.3,1051.6
+Brazil,1991,68.739998,All Races,Both Sexes,72.9,1084.1
+Brazil,1992,68.910004,All Races,Both Sexes,72.6,1094.4
+Brazil,1993,69.129997,All Races,Both Sexes,72,1151.8
+Brazil,1994,69.379997,All Races,Both Sexes,71.4,1201.2
+Brazil,1995,69.660004,All Races,Both Sexes,71.2,1214.8
+Brazil,1996,69.959999,All Races,Both Sexes,71.1,1213.1
+Brazil,1997,70.339996,All Races,Both Sexes,70.8,1222.6
+Brazil,1998,70.669998,All Races,Both Sexes,70.5,1271.8
+Brazil,1999,70.980003,All Races,Both Sexes,70.2,1304.5
+Brazil,2000,71.360001,All Races,Both Sexes,70.5,1274
+Brazil,2001,71.760002,All Races,Both Sexes,70.2,1309
+Brazil,2002,72.059998,All Races,Both Sexes,70.2,1306.5
+Brazil,2003,72.330002,All Races,Both Sexes,70.2,1303.8
+Brazil,2004,72.620003,All Races,Both Sexes,69.9,1346.3
+Brazil,2005,72.93,All Races,Both Sexes,70.1,1323.6
+Brazil,2006,73.199997,All Races,Both Sexes,70.2,1298.8
+Brazil,2007,73.459999,All Races,Both Sexes,69.7,1339.2
+Brazil,2008,73.720001,All Races,Both Sexes,69.9,1317.3
+Brazil,2009,73.940002,All Races,Both Sexes,69.6,1343.4
+Brazil,2010,74.150002,All Races,Both Sexes,69.5,1356.7
+Brazil,2011,74.379997,All Races,Both Sexes,69.7,1333.7
+Brazil,2012,74.639999,All Races,Both Sexes,69.6,1332.3
+Brazil,2013,74.839996,All Races,Both Sexes,69.6,1314.8
+Brazil,2014,75.010002,All Races,Both Sexes,68.8,1385.6
+Brazil,2015,75.139999,All Races,Both Sexes,68.6,1394.6
+Brazil,2016,75.239998,All Races,Both Sexes,68.4,1423.5
+Canada,1929,57.970001,All Races,Both Sexes,68.2,1446
+Canada,1930,58.950001,All Races,Both Sexes,68,1457.3
+Canada,1931,60.360001,All Races,Both Sexes,67.2,1501.7
+Canada,1932,61.43,All Races,Both Sexes,66.8,1532
+Canada,1933,62.360001,All Races,Both Sexes,66.7,1529.7
+Canada,1934,62.77,All Races,Both Sexes,65.9,1575.4
+Canada,1935,62.490002,All Races,Both Sexes,65.2,1618.5
+Canada,1936,62.720001,All Races,Both Sexes,63.3,1702.4
+Canada,1937,61.349998,All Races,Both Sexes,66.2,1635.8
+Canada,1938,63.310001,All Races,Both Sexes,64.8,1694.6
+Canada,1939,63.740002,All Races,Both Sexes,62.9,1785
+Canada,1940,64.010002,All Races,Both Sexes,63.7,1766.9
+Canada,1941,63.759998,All Races,Both Sexes,63.5,1764.3
+Canada,1942,64.699997,All Races,Both Sexes,60,1882.6
+Canada,1943,64.610001,All Races,Both Sexes,58.5,1963.7
+Canada,1944,65.349998,All Races,Both Sexes,61.7,1860.1
+Canada,1945,66.330002,All Races,Both Sexes,61.1,1888.2
+Canada,1946,66.529999,All Races,Both Sexes,63.3,1850.1
+Canada,1947,66.779999,All Races,Both Sexes,62.1,1897.1
+Canada,1948,67.330002,All Races,Both Sexes,61.1,1895.1
+Canada,1949,67.650002,All Races,Both Sexes,59.7,1943.8
+Canada,1950,68.279999,All Races,Both Sexes,57.1,2081.2
+Canada,1951,68.550003,All Races,Both Sexes,56.8,2124.6
+Canada,1952,68.75,All Races,Both Sexes,60.4,1989.5
+Canada,1953,69.129997,All Races,Both Sexes,56.7,2146.2
+Canada,1954,69.989998,All Races,Both Sexes,59,2068.7
+Canada,1955,70.050003,All Races,Both Sexes,59.7,2038
+Canada,1956,70.040001,All Races,Both Sexes,57.2,2141.4
+Canada,1957,69.959999,All Races,Both Sexes,59.6,2049.5
+Canada,1958,70.620003,All Races,Both Sexes,60.8,1958.2
+Canada,1959,70.660004,All Races,Both Sexes,54.1,2147.1
+Canada,1960,71.040001,All Races,Both Sexes,54.7,2057.2
+China,1800,32,All Races,Both Sexes,39.1,2541.6
+China,1801,32,All Races,Both Sexes,50.9,2275.9
+China,1802,32,All Races,Both Sexes,51.7,2266.6
+China,1803,32,All Races,Both Sexes,54.5,2174.8
+China,1804,32,All Races,Both Sexes,54.2,2149.3
+China,1805,32,All Races,Both Sexes,52.5,2206.5
+China,1806,32,All Races,Both Sexes,53.5,2211.7
+China,1807,32,All Races,Both Sexes,52.6,2245.4
+China,1808,32,All Races,Both Sexes,50,2317.2
+China,1809,32,All Races,Both Sexes,52.1,2249.2
+China,1810,32,All Races,Both Sexes,51.1,2298.9
+China,1811,32,All Races,Both Sexes,47.6,2494.4
+China,1812,32,All Races,Both Sexes,48.7,2399
+China,1813,32,All Races,Both Sexes,48.7,2423.7
+China,1814,32,All Races,Both Sexes,47.6,2502.5
+China,1815,32,All Races,Both Sexes,50.5,2379
+China,1816,32,All Races,Both Sexes,51.5,2301.3
+China,1817,32,All Races,Both Sexes,49.1,2473.1
+China,1818,32,All Races,Both Sexes,47.3,2518
+China,1819,32,All Races,Female,81.3,616.7
+China,1820,32,All Races,Female,81.2,623.5
+China,1821,32,All Races,Female,81.2,624.7
+China,1822,32,All Races,Female,81.1,632.4
+China,1823,32,All Races,Female,81,634.9
+China,1824,32,All Races,Female,80.9,636.8
+China,1825,32,All Races,Female,80.6,660
+China,1826,32,All Races,Female,80.6,658.1
+China,1827,32,All Races,Female,80.3,672.2
+China,1828,32,All Races,Female,80.1,692.3
+China,1829,32,All Races,Female,80.1,690.5
+China,1830,32,All Races,Female,79.7,715.2
+China,1831,32,All Races,Female,79.6,723.6
+China,1832,32,All Races,Female,79.5,725.6
+China,1833,32,All Races,Female,79.7,731.4
+China,1834,32,All Races,Female,79.4,734
+China,1835,32,All Races,Female,79.5,724.2
+China,1836,32,All Races,Female,79.4,725.3
+China,1837,32,All Races,Female,79.1,732.7
+China,1838,32,All Races,Female,78.9,739.2
+China,1839,32,All Races,Female,79,738.3
+China,1840,32,All Races,Female,78.8,745.6
+China,1841,32,All Races,Female,79.1,725.3
+China,1842,32,All Races,Female,78.9,737.9
+China,1843,32,All Races,Female,78.8,750.3
+China,1844,32,All Races,Female,78.5,761.3
+China,1845,32,All Races,Female,78.3,780.5
+China,1846,32,All Races,Female,78.3,773.8
+China,1847,32,All Races,Female,78.2,778.5
+China,1848,32,All Races,Female,78.2,784.2
+China,1849,32,All Races,Female,78.2,779.4
+China,1850,32,All Races,Female,78.1,783.3
+China,1851,31,All Races,Female,78.1,776.4
+China,1852,30,All Races,Female,77.8,792.7
+China,1853,29,All Races,Female,77.4,817.7
+France,1877,44.330002,All Races,Female,77.8,789.9
+France,1878,43.360001,All Races,Female,77.3,816.4
+France,1879,43.990002,All Races,Female,77.2,820.7
+France,1880,42.73,All Races,Female,76.8,849.4
+France,1881,43.549999,All Races,Female,76.6,855.1
+France,1882,43.16,All Races,Female,75.9,907.5
+France,1883,43.279999,All Races,Female,75.3,947.8
+France,1884,42.52,All Races,Female,75.1,958.7
+France,1885,43.970001,All Races,Female,75,960.6
+France,1886,43.169998,All Races,Female,74.7,971.4
+France,1887,43.75,All Races,Female,74.4,1013.4
+France,1888,44.150002,All Races,Female,74.1,1043.5
+France,1889,45.560001,All Races,Female,74.3,1020.5
+France,1890,43.360001,All Races,Female,73.9,1055.3
+France,1891,44.110001,All Races,Female,73.8,1056.1
+France,1892,43.57,All Races,Female,73.7,1061.5
+France,1893,43.599998,All Races,Female,73.4,1098.5
+France,1894,45.529999,All Races,Female,73.5,1087.1
+France,1895,45.200001,All Races,Female,73.6,1068.5
+France,1896,47.560001,All Races,Female,73.1,1105.3
+France,1897,47.93,All Races,Female,73.2,1093.5
+France,1898,45.990002,All Races,Female,72.9,1120.9
+France,1899,45.23,All Races,Female,72.7,1134.5
+France,1900,45.080002,All Races,Female,72.9,1117.5
+France,1901,47.009998,All Races,Female,72.8,1121.9
+France,1902,48.009998,All Races,Female,72.8,1109.7
+France,1903,48.43,All Races,Female,72,1172.6
+France,1904,48.080002,All Races,Female,71.6,1186.7
+France,1905,48.360001,All Races,Female,71.4,1213.4
+France,1906,47.740002,All Races,Female,71.1,1236
+France,1907,48.279999,All Races,Female,70.7,1252.6
+France,1908,49.299999,All Races,Female,69.9,1296.4
+France,1909,50.009998,All Races,Female,69.7,1332.5
+France,1910,51.369999,All Races,Female,69.4,1342.8
+France,1911,48.169998,All Races,Female,67.9,1376.8
+France,1912,51.619999,All Races,Female,66.8,1428.4
+France,1913,51.349998,All Races,Female,64.4,1507.8
+France,1914,37.849998,All Races,Female,67.9,1444.7
+France,1915,35.630001,All Races,Female,66.8,1502.4
+France,1916,39.509998,All Races,Female,65.2,1599.4
+France,1917,42.599998,All Races,Female,65.4,1599.8
+France,1918,34.34,All Races,Female,65.3,1599.1
+France,1919,47.52,All Races,Female,62.4,1695.1
+France,1920,51.599998,All Races,Female,60.6,1780.6
+France,1921,52.689999,All Races,Female,63.9,1690.6
+Germany,1819,38.369999,All Races,Female,63.3,1720.7
+Germany,1820,38.369999,All Races,Female,65.1,1699.1
+Germany,1821,38.369999,All Races,Female,63.5,1758.4
+Germany,1822,38.369999,All Races,Female,63.1,1743.6
+Germany,1823,38.369999,All Races,Female,61.6,1798.3
+Germany,1824,38.369999,All Races,Female,58.7,1940.9
+Germany,1825,38.369999,All Races,Female,58.3,1990.5
+Germany,1826,38.369999,All Races,Female,62.1,1863.8
+Germany,1827,38.369999,All Races,Female,58,2028
+Germany,1828,38.369999,All Races,Female,60.6,1957.1
+Germany,1829,38.369999,All Races,Female,61.5,1927.2
+Germany,1830,38.369999,All Races,Female,58.5,2050.5
+Germany,1831,38.369999,All Races,Female,61,1965.1
+Germany,1832,38.369999,All Races,Female,61.8,1890.4
+Germany,1833,38.369999,All Races,Female,54.6,2081.3
+Germany,1834,38.369999,All Races,Female,56,1973.1
+Germany,1835,38.369999,All Races,Female,42.2,2342.8
+Germany,1836,38.369999,All Races,Female,54,2119.9
+Germany,1837,38.369999,All Races,Female,54.3,2123.3
+Germany,1838,38.369999,All Races,Female,56.8,2044.3
+Germany,1839,38.369999,All Races,Female,56.8,2009
+Germany,1840,38.369999,All Races,Female,55,2058.1
+Germany,1841,38.369999,All Races,Female,55.9,2067.2
+Germany,1842,38.369999,All Races,Female,54.4,2112.1
+Germany,1843,38.369999,All Races,Female,51.8,2171.3
+Germany,1844,38.369999,All Races,Female,53.8,2111.5
+Germany,1845,38.369999,All Races,Female,52.8,2162.3
+Germany,1846,38.369999,All Races,Female,49.9,2327.3
+Germany,1847,38.369999,All Races,Female,50.8,2244.6
+Germany,1848,38.369999,All Races,Female,50.2,2287.7
+Germany,1849,38.369999,All Races,Female,49.1,2358.8
+Germany,1850,38.369999,All Races,Female,52,2250.6
+Germany,1851,38.369999,All Races,Female,53.4,2162.8
+Germany,1852,38.369999,All Races,Female,50.6,2350.5
+Germany,1853,38.369999,All Races,Female,48.3,2410.4
+Germany,1854,38.369999,All Races,Male,76.5,855.1
+Germany,1855,38.369999,All Races,Male,76.4,863.6
+Germany,1856,38.369999,All Races,Male,76.4,865.1
+Germany,1857,38.369999,All Races,Male,76.3,875.3
+Germany,1858,38.369999,All Races,Male,76.2,887.1
+Germany,1859,38.369999,All Races,Male,76,890.9
+Germany,1860,38.369999,All Races,Male,75.6,918.8
+Germany,1861,38.369999,All Races,Male,75.5,922.9
+Germany,1862,38.369999,All Races,Male,75.2,943.4
+Germany,1863,38.369999,All Races,Male,75,971.9
+Germany,1864,38.369999,All Races,Male,75,973.3
+Germany,1865,38.369999,All Races,Male,74.5,1010.3
+Germany,1866,38.369999,All Races,Male,74.4,1030.6
+Germany,1867,38.369999,All Races,Male,74.3,1035.3
+Germany,1868,38.369999,All Races,Male,74.3,1053.8
+Germany,1869,38.369999,All Races,Male,73.9,1067
+Germany,1870,38.369999,All Races,Male,73.8,1068.9
+Germany,1871,38.369999,All Races,Male,73.6,1087.7
+Germany,1872,38.369999,All Races,Male,73.1,1115.2
+Germany,1873,38.369999,All Races,Male,72.5,1143.6
+Germany,1874,38.369999,All Races,Male,72.4,1155.1
+Germany,1875,38.369999,All Races,Male,72.2,1177
+Germany,1876,38.477001,All Races,Male,72.3,1158
+Germany,1877,38.584,All Races,Male,72,1180.2
+Germany,1878,38.691002,All Races,Male,71.8,1202
+Germany,1879,38.798,All Races,Male,71.7,1214.2
+Germany,1880,38.904999,All Races,Male,71.4,1250
+Germany,1881,39.012001,All Races,Male,71.4,1245.7
+Germany,1882,39.118999,All Races,Male,71.2,1261.5
+Germany,1883,39.226002,All Races,Male,71.1,1277.6
+Germany,1884,39.333,All Races,Male,71.1,1271
+Germany,1885,39.439999,All Races,Male,71,1284.4
+Germany,1886,39.734001,All Races,Male,70.8,1279.9
+Germany,1887,40.028,All Races,Male,70.4,1308.2
+Germany,1888,40.321999,All Races,Male,70,1347.6
+Germany,1889,40.616001,All Races,Male,70,1316.2
+Germany,1890,40.91,All Races,Male,69.6,1358.1
+Germany,1891,41.203999,All Races,Male,69.5,1369.3
+Germany,1892,41.498001,All Races,Male,69.1,1404.3
+Germany,1893,41.792,All Races,Male,68.8,1417.4
+Germany,1894,42.085999,All Races,Male,68.2,1478.5
+Germany,1895,42.380001,All Races,Male,67.6,1537.5
+Germany,1896,42.687,All Races,Male,67.4,1551.1
+Germany,1897,42.993999,All Races,Male,67.4,1542.5
+Germany,1898,43.300999,All Races,Male,67.1,1542.1
+Germany,1899,43.608002,All Races,Male,66.8,1601.4
+Germany,1900,43.915001,All Races,Male,66.6,1635.2
+Germany,1901,44.222,All Races,Male,67,1591.8
+Germany,1902,44.528999,All Races,Male,66.7,1624.2
+India,1846,25.4424,All Races,Male,66.8,1614.3
+India,1847,25.4424,All Races,Male,66.8,1597
+India,1848,25.4424,All Races,Male,66.6,1644
+India,1849,25.4424,All Races,Male,66.9,1604.4
+India,1850,25.4424,All Races,Male,67.1,1567.6
+India,1851,25.4424,All Races,Male,66.6,1609
+India,1852,25.4424,All Races,Male,66.8,1573.4
+India,1853,25.4424,All Races,Male,66.6,1596.3
+India,1854,25.4424,All Races,Male,66.4,1606.7
+India,1855,25.4424,All Races,Male,66.7,1575.5
+India,1856,25.4424,All Races,Male,66.7,1565.2
+India,1857,25.4424,All Races,Male,66.7,1540.7
+India,1858,25.4424,All Races,Male,66,1619
+India,1859,25.4424,All Races,Male,65.8,1620.8
+India,1860,23,All Races,Male,65.6,1651.7
+India,1861,22,All Races,Male,65.6,1674.2
+India,1862,25.4424,All Races,Male,65.2,1676.7
+India,1863,25.4424,All Races,Male,64.6,1720.5
+India,1864,25.252296,All Races,Male,64.4,1743
+India,1865,25.252296,All Races,Male,64.4,1727.6
+India,1866,21.039825,All Races,Male,63.6,1791.6
+India,1867,25.252296,All Races,Male,63.6,1821.6
+India,1868,25.252296,All Races,Male,62.4,1907.7
+India,1869,21.304474,All Races,Male,64.7,1835.1
+India,1870,25.4424,All Races,Male,63.1,1894.3
+India,1871,25.4424,All Races,Male,60.8,1976
+India,1872,25.4424,All Races,Male,62.1,1937.2
+India,1873,25.4424,All Races,Male,61.9,1932.4
+India,1874,25.4424,All Races,Male,58,2072.8
+India,1875,25.110001,All Races,Male,56.6,2148.5
+India,1876,20,All Races,Male,59.9,2031.2
+India,1877,19,All Races,Male,59.3,2056.7
+India,1878,20,All Races,Male,61.7,2002
+India,1879,25.4424,All Races,Male,61,2036.4
+India,1880,25.4424,All Races,Male,59.4,2047.4
+India,1881,25.4424,All Races,Male,58.1,2088.8
+India,1882,25.3248,All Races,Male,55.8,2219.7
+India,1883,25.207199,All Races,Male,55.6,2256.3
+India,1884,25.0896,All Races,Male,59,2113.8
+India,1885,24.972,All Races,Male,55.5,2262.2
+India,1886,24.854401,All Races,Male,57.6,2178
+India,1887,24.736799,All Races,Male,58.1,2146.9
+India,1888,24.417561,All Races,Male,56.1,2229.5
+India,1889,24.300924,All Races,Male,58.4,2131.8
+India,1890,24.384001,All Races,Male,60,2025
+India,1891,23.025278,All Races,Male,53.6,2213.2
+India,1892,22.654757,All Races,Male,53.5,2141.5
+India,1893,24.110241,All Races,Male,36.6,2740.5
+India,1894,24.03216,All Races,Male,48.4,2427.8
+India,1895,23.950001,All Races,Male,49.6,2406.2
+India,1896,22.75,All Races,Male,52.5,2302.6
+India,1897,19.85,All Races,Male,52,2286.1
+India,1898,25.75,All Races,Male,50.3,2351.2
+India,1899,23.35,All Races,Male,51.5,2352.8
+India,1900,18.35,All Races,Male,50.9,2374.5
+India,1901,23.049999,All Races,Male,48.4,2459.9
+India,1902,23.6,All Races,Male,50.5,2385.7
+India,1903,23.417761,All Races,Male,49.5,2433.4
+India,1904,22,All Races,Male,45.6,2660.3
+India,1905,21.9,All Races,Male,46.9,2553.6
+India,1906,21.886934,All Races,Male,47.3,2565.5
+India,1907,19.238894,All Races,Male,46.2,2652.9
+India,1908,23.248159,All Races,Male,49.1,2513.5
+India,1909,23.214239,All Races,Male,49.8,2447.9
+India,1910,23.180321,All Races,Male,47.6,2600.5
+India,1911,23.1464,All Races,Male,46.3,2630.8
+India,1912,23.338577,Black,Both Sexes,75.6,849.3
+India,1913,23.530756,Black,Both Sexes,75.5,860.8
+India,1914,23.722933,Black,Both Sexes,75.5,864.8
+India,1915,23.915112,Black,Both Sexes,75.3,877.1
+India,1916,24.107288,Black,Both Sexes,75.1,898.2
+India,1917,24.299467,Black,Both Sexes,74.7,912.8
+India,1918,8.1088362,Black,Both Sexes,74.3,947.6
+India,1919,24.578934,Black,Both Sexes,73.8,972
+India,1920,24.718666,Black,Both Sexes,73.4,997.9
+India,1921,24.8584,Black,Both Sexes,73,1035.1
+India,1922,25.304001,Black,Both Sexes,72.9,1043.8
+India,1923,25.749599,Black,Both Sexes,72.4,1080.5
+India,1924,26.1952,Black,Both Sexes,72.2,1097.3
+India,1925,26.6408,Black,Both Sexes,72,1106.2
+India,1926,27.086399,Black,Both Sexes,71.8,1121.4
+India,1927,27.532,Black,Both Sexes,71.4,1135.7
+India,1928,27.9776,Black,Both Sexes,71.3,1127.1
+India,1929,28.423201,Black,Both Sexes,71.1,1139.2
+India,1930,28.868799,Black,Both Sexes,70.2,1177.6
+India,1931,29.3144,Black,Both Sexes,69.6,1213.6
+India,1932,29.642241,Black,Both Sexes,69.5,1216.2
+Italy,1839,29.690001,Black,Both Sexes,69.2,1240.2
+Italy,1840,29.690001,Black,Both Sexes,69.6,1205.3
+Italy,1841,29.690001,Black,Both Sexes,69.3,1233.6
+Italy,1842,29.690001,Black,Both Sexes,69.1,1248.5
+Italy,1843,29.690001,Black,Both Sexes,68.8,1273.5
+Italy,1844,29.690001,Black,Both Sexes,68.9,1281.9
+Italy,1845,29.690001,Black,Both Sexes,69.1,1260.9
+Italy,1846,29.690001,Black,Both Sexes,69.1,1264.6
+Italy,1847,29.690001,Black,Both Sexes,69.3,1259.1
+Italy,1948,63.450001,Black,Both Sexes,69.5,1234.5
+Italy,1949,64.110001,Black,Both Sexes,69.4,1239.8
+Italy,1950,65.769997,Black,Both Sexes,69.4,1220.1
+Italy,1951,65.309998,Black,Both Sexes,68.9,1256.5
+Italy,1952,65.940002,Black,Both Sexes,68.1,1312.9
+Italy,1953,66.580002,Black,Both Sexes,68.5,1238.5
+Italy,1954,67.900002,Black,Both Sexes,68.1,1267.7
+Italy,1955,68.25,Black,Both Sexes,67.7,1286
+Italy,1956,67.639999,Black,Both Sexes,67.2,1311.2
+Italy,1957,67.809998,Black,Both Sexes,66.8,1327.5
+Italy,1958,68.870003,Black,Both Sexes,66,1397.7
+Italy,1959,69.32,Black,Both Sexes,65,1473.3
+Italy,1960,69.209999,Black,Both Sexes,64.7,1486.3
+Italy,1961,69.849998,Black,Both Sexes,64.6,1481.3
+Italy,1962,69.239998,Black,Both Sexes,64.1,1518.1
+Italy,1963,69.349998,Black,Both Sexes,64.5,1570.4
+Italy,1964,70.400002,Black,Both Sexes,64.1,1615.6
+Italy,1965,70.269997,Black,Both Sexes,64.9,1466.9
+Italy,1966,71.019997,Black,Both Sexes,64.2,1529.7
+Italy,1967,71.059998,Black,Both Sexes,64.3,1508.9
+Italy,1968,70.879997,Black,Both Sexes,64.2,1507.1
+Italy,1969,70.900002,Black,Both Sexes,63.7,1581.5
+Italy,1970,71.660004,Black,Both Sexes,64.2,1532
+Italy,1971,71.910004,Black,Both Sexes,64.5,1492.2
+Italy,1972,72.190002,Black,Both Sexes,63.6,1549
+Italy,1973,72.129997,Black,Both Sexes,63.9,1504.4
+Italy,1974,72.849998,Black,Both Sexes,63.4,1552.1
+Italy,1975,72.760002,Black,Both Sexes,63,1571.7
+Italy,1976,73.110001,Black,Both Sexes,63.6,1519.2
+Italy,1977,73.480003,Black,Both Sexes,63.7,1510.2
+Italy,1978,73.830002,Black,Both Sexes,63.4,1514.8
+Italy,1979,74.160004,Black,Both Sexes,62,1641.2
+Italy,1980,74.120003,Black,Both Sexes,61.4,1671.3
+Italy,1981,74.510002,Black,Both Sexes,61.2,1698.2
+Italy,1982,74.980003,Black,Both Sexes,60.8,1757.6
+Italy,1983,74.800003,Black,Both Sexes,60.6,1739.9
+Italy,1984,75.559998,Black,Both Sexes,60,1766.9
+Italy,1985,75.669998,Black,Both Sexes,59.7,1749.7
+Italy,1986,76,Black,Both Sexes,59.1,1711.7
+Italy,1987,76.419998,Black,Both Sexes,57.7,1808.8
+Italy,1988,76.599998,Black,Both Sexes,56.6,1904.5
+Italy,1989,77,Black,Both Sexes,55.6,2006.9
+Italy,1990,77.019997,Black,Both Sexes,56.6,1988.9
+Italy,1991,77.190002,Black,Both Sexes,53.8,2142.8
+Italy,1992,77.410004,Black,Both Sexes,53.1,2254.1
+Italy,1993,77.620003,Black,Both Sexes,54.5,2157
+Italy,1994,77.849998,Black,Both Sexes,52.9,2217.2
+Italy,1995,78.120003,Black,Both Sexes,50.3,2374
+Italy,1996,78.330002,Black,Both Sexes,49,2496.6
+Italy,1997,78.690002,Black,Both Sexes,53.1,2316
+Italy,1998,78.970001,Black,Both Sexes,51.8,2386.5
+Italy,1999,79.269997,Black,Both Sexes,54.7,2307.9
+Italy,2000,79.599998,Black,Both Sexes,53.7,2397.3
+Italy,2001,79.93,Black,Both Sexes,50.4,2516
+Italy,2002,80.169998,Black,Both Sexes,48.1,2682.9
+Italy,2003,80.269997,Black,Both Sexes,46.7,2832.6
+Italy,2004,80.720001,Black,Both Sexes,46.3,2835.5
+Italy,2005,80.910004,Black,Both Sexes,48.2,2676.2
+Italy,2006,81.089996,Black,Both Sexes,44.6,2906
+Italy,2007,81.269997,Black,Both Sexes,45.7,2858.7
+Italy,2008,81.459999,Black,Both Sexes,46.6,2806.5
+Italy,2009,81.57,Black,Both Sexes,48.3,2717.8
+Italy,2010,81.779999,Black,Both Sexes,52.4,2507.8
+Italy,2011,81.919998,Black,Both Sexes,51.5,2459.8
+Italy,2012,82.019997,Black,Both Sexes,45.3,2743.3
+Italy,2013,82.239998,Black,Both Sexes,44.5,2648.5
+Italy,2014,82.290001,Black,Both Sexes,31.1,3411.9
+Italy,2015,82.330002,Black,Both Sexes,38.8,3069.6
+Italy,2016,82.339996,Black,Both Sexes,41.3,2940.3
+Japan,1839,36.415504,Black,Both Sexes,38.9,3021.8
+Japan,1840,36.415901,Black,Both Sexes,38.9,2914.6
+Japan,1841,36.416298,Black,Both Sexes,38.4,2906.6
+Japan,1842,36.416698,Black,Both Sexes,37.9,2959.2
+Japan,1843,36.417095,Black,Both Sexes,36.4,3000.6
+Japan,1844,36.417492,Black,Both Sexes,35.6,2983.5
+Japan,1845,36.417889,Black,Both Sexes,35.7,3006.9
+Japan,1846,36.418285,Black,Both Sexes,34.9,3048.2
+Japan,1847,36.418686,Black,Both Sexes,32.5,3295.1
+Japan,1848,36.419083,Black,Both Sexes,32.9,3223.4
+Japan,1849,36.419479,Black,Both Sexes,31.3,3440.1
+Japan,1850,36.419876,Black,Both Sexes,30.8,3586.2
+Japan,1851,36.420273,Black,Both Sexes,33.1,3373.7
+Japan,1852,36.420673,Black,Both Sexes,34.6,3190.4
+Japan,1853,36.42107,Black,Both Sexes,33.7,3338.4
+Japan,1854,36.421467,Black,Both Sexes,33,3423.3
+Japan,1855,36.421864,Black,Female,78.5,713.3
+Japan,1856,36.42226,Black,Female,78.4,720.6
+Japan,1857,36.422661,Black,Female,78.4,723.9
+Japan,1858,36.423058,Black,Female,78.2,739.8
+Japan,1859,36.423454,Black,Female,78,752.5
+Japan,1860,36.423851,Black,Female,77.7,763.3
+Japan,1861,36.424252,Black,Female,77.3,792
+Japan,1862,36.424648,Black,Female,77,808.1
+Japan,1863,36.425045,Black,Female,76.7,828.4
+Japan,1864,36.425442,Black,Female,76.2,862.7
+Japan,1865,36.425838,Black,Female,76.1,869.8
+Japan,1866,36.459202,Black,Female,75.7,898.3
+Japan,1867,36.492561,Black,Female,75.4,913.5
+Japan,1868,36.525921,Black,Female,75.3,917.9
+Japan,1869,36.55928,Black,Female,75.1,927.6
+Japan,1870,36.59264,Black,Female,74.7,933.6
+Japan,1871,36.633999,Black,Female,74.8,921
+Japan,1872,36.675362,Black,Female,74.7,921.6
+Japan,1873,36.716721,Black,Female,74.2,939.6
+Japan,1874,36.75808,Black,Female,73.9,955.7
+Japan,1875,36.799438,Black,Female,73.9,954
+Japan,1876,36.846848,Black,Female,73.7,968.6
+Japan,1877,36.894257,Black,Female,73.9,941.4
+Japan,1878,36.941666,Black,Female,73.8,961.8
+Japan,1879,36.989071,Black,Female,73.6,973.6
+Japan,1880,37.03648,Black,Female,73.3,995.8
+Japan,1881,37.094864,Black,Female,73.2,1005.4
+Japan,1882,37.153248,Black,Female,73.4,988.4
+Japan,1883,37.211632,Black,Female,73.4,992.7
+Japan,1884,37.270016,Black,Female,73.4,992.2
+Japan,1885,37.3284,Black,Female,73.6,974.9
+Japan,1886,37.397858,Black,Female,73.5,980.2
+Japan,1887,37.467312,Black,Female,73.6,958.8
+Japan,1888,37.53677,Black,Female,73.2,985.7
+Japan,1889,37.606224,Black,Female,72.5,1031.8
+Japan,1890,37.675678,Black,Female,72.9,967.1
+Japan,1891,37.760113,Black,Female,72.4,995.1
+Japan,1892,37.844543,Black,Female,72,1012.2
+Japan,1893,37.928974,Black,Female,71.6,1031.2
+Japan,1894,38.013409,Black,Female,71.3,1042.4
+Japan,1895,38.097839,Black,Female,70.3,1109.7
+Japan,1896,38.198273,Black,Female,69.3,1179.7
+Japan,1897,38.298702,Black,Female,69.1,1181.2
+Japan,1898,38.399136,Black,Female,68.9,1196.8
+Japan,1899,38.499569,Black,Female,68.3,1228.7
+Japan,1900,38.599998,Black,Female,68.6,1274.9
+Japan,1901,38.724384,Black,Female,67.9,1325.6
+Japan,1902,38.848766,Black,Female,68.5,1209.7
+Japan,1903,38.973152,Black,Female,67.6,1274.6
+Japan,1904,39.097534,Black,Female,67.6,1266
+Japan,1905,39.22192,Black,Female,67.3,1284.1
+Japan,1906,39.372257,Black,Female,66.6,1347.8
+Japan,1907,39.522591,Black,Female,66.9,1324.5
+Japan,1908,39.672928,Black,Female,67.1,1295.9
+Japan,1909,39.823265,Black,Female,66.3,1340.5
+Japan,1910,39.973598,Black,Female,66.5,1305
+Japan,1911,40.158768,Black,Female,65.8,1354.6
+Japan,1912,40.343937,Black,Female,65.5,1374.6
+Japan,1913,40.529102,Black,Female,66.1,1331.9
+Japan,1914,40.714272,Black,Female,66.1,1326.7
+Japan,1915,40.899441,Black,Female,65.9,1326.3
+Japan,1916,41.128414,Black,Female,64.5,1434.3
+Japan,1917,41.357391,Black,Female,63.8,1465
+Japan,1918,32.69595,Black,Female,63.4,1508.3
+Japan,1919,41.815346,Black,Female,62.9,1574.1
+Japan,1920,42.044319,Black,Female,62.7,1572.2
+Japan,1921,42.330318,Black,Female,62.5,1580
+Japan,1922,42.616322,Black,Female,61.9,1586.1
+Japan,1923,43.22493,Black,Female,61,1556.8
+Japan,1924,43.833534,Black,Female,59.6,1634.8
+Japan,1925,44.442142,Black,Female,57.7,1733.6
+Japan,1926,45.050751,Black,Female,56.1,1837.6
+Japan,1927,45.659359,Black,Female,58.2,1803.7
+Japan,1928,45.98225,Black,Female,55.3,1945.9
+Japan,1929,46.305141,Black,Female,54.9,2057.5
+Japan,1930,46.628029,Black,Female,56,1992.4
+Japan,1931,46.95092,Black,Female,54.3,2057.1
+Japan,1932,47.273811,Black,Female,52.5,2158.5
+Japan,1933,47.596699,Black,Female,51.4,2278.7
+Japan,1934,47.91959,Black,Female,55.2,2136.5
+Japan,1935,48.242481,Black,Female,53.7,2213.4
+Japan,1936,48.621239,Black,Female,56,2174.1
+Japan,1937,49,Black,Female,54.6,2256.1
+Japan,1938,49,Black,Female,51.5,2362.8
+Japan,1939,49,Black,Female,49.2,2530.1
+Japan,1940,49,Black,Female,47.8,2664.8
+Japan,1941,48.75,Black,Female,47,2703.1
+Japan,1942,48.5,Black,Female,48.9,2565.5
+Japan,1943,46,Black,Female,45.6,2778
+Japan,1944,40,Black,Female,46.7,2741.9
+Japan,1945,30.5368,Black,Female,47.8,2693.2
+Japan,1946,46.5,Black,Female,48.9,2657.8
+Japan,1947,51.75,Black,Female,53,2476.1
+Japan,1948,56.889999,Black,Female,51.3,2475
+Japan,1949,57.759998,Black,Female,45.2,2756.2
+Japan,1950,59.299999,Black,Female,44.4,2663.2
+Japan,1951,60.990002,Black,Female,32.5,3304.3
+Japan,1952,63.029999,Black,Female,40.8,2970.6
+Japan,1953,63.369999,Black,Female,43.1,2853.6
+Japan,1954,64.610001,Black,Female,40.5,2948.8
+Japan,1955,65.769997,Black,Female,40.8,2810.1
+Japan,1956,65.629997,Black,Female,40.3,2802.7
+Japan,1957,65.5,Black,Female,40,2807.7
+Japan,1958,67.120003,Black,Female,38.2,2899.8
+Japan,1959,67.510002,Black,Female,37.5,2875.3
+Japan,1960,67.800003,White,Male,47.6,2544.7
